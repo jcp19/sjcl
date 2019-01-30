@@ -6,4 +6,3 @@ while (<>) {
   print;
 }
 
-print "module.exports = sjcl;";
